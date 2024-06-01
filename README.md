@@ -4,6 +4,7 @@ Welcome to the Pacman Game repository! This project is a simple implementation o
 Installation:
 
 To run the Pacman game on your local machine, follow these steps:
+
     Create a folder resources and a folder images in it.
     Place all images in that folder.
     Open intellij and run game.
